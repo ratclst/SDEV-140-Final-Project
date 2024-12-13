@@ -1,3 +1,10 @@
+"""
+Shaun Ratcliff
+12/10/24
+SDEV 140 Final Project
+This application allows users to enter and display sports statistics for Football, Boys Basketball, and Girls Basketball
+"""
+
 import tkinter as tk
 from tkinter import Toplevel, messagebox, Canvas
 from PIL import Image, ImageTk  # Importing Pillow for image handling
